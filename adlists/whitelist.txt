@@ -18,8 +18,10 @@
 @@||map.fluqzy.eu^
 @@||proxy.fluqzy.eu^
 @@||portainer.fluqzy.eu^
-@@||dns.fluqzy.eu^
 @@||dns1.fluqzy.eu^
+@@||dns2.fluqzy.eu^
+@@||adguard1.fluqzy.eu^
+@@||adguard2.fluqzy.eu^
 
 ![Google Services]
 @@||clients4.google.com^
