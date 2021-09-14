@@ -87,6 +87,7 @@
 @@||gsp1.apple.com^
 @@||www.apple.com^
 @@||www.appleiphonecell.com^
+@@||apple-events.akamaized.net^
 
 ![Spotify Services]
 @@||spclient.wg.spotify.com^
