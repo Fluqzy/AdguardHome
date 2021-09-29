@@ -117,3 +117,12 @@
 
 ![Idealo Services]
 @@||marketing.net.idealo-partner.com^
+
+![WhatsApp Services]
+@@||web.whatsapp.com^
+@@||pps.whatsapp.net^
+@@||mmg.whatsapp.net^
+@@||mmg-fna.whatsapp.net^
+@@||g.whatsapp.net^
+@@||e5.whatsapp.net^
+@@||chat.cdn.whatsapp.net^
