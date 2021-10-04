@@ -126,3 +126,6 @@
 @@||g.whatsapp.net^
 @@||e5.whatsapp.net^
 @@||chat.cdn.whatsapp.net^
+
+![Automizely Services]
+@@||accounts.automizely.com^
