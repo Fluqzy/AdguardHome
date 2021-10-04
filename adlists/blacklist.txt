@@ -6,7 +6,6 @@
 !
 !   Title: FluqzyList Blacklist
 !   Syntax: abp
-!   Entries: 4
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 
