@@ -128,4 +128,5 @@
 @@||chat.cdn.whatsapp.net^
 
 ![Automizely Services]
+@@||automizely.com^
 @@||accounts.automizely.com^
