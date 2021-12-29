@@ -9,3 +9,15 @@
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 !   Last update: 29.10.2021 15:55
+
+![SentryCDN Services]
+||browser.sentry-cdn.com^
+
+![Pinterest Services]
+||ct.pinterest.com^
+
+![Reddit Services]
+||ads.reddit.com^
+
+![Xiaomi Services]
+||data.mistat.intl.xiaomi.com^
