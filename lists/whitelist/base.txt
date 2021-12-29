@@ -128,3 +128,6 @@
 ![Automizely Services]
 @@||automizely.com^
 @@||accounts.automizely.com^
+
+![Telekom]
+@@||stats.t-online.de^
