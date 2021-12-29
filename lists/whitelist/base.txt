@@ -4,7 +4,7 @@
 !    ) _)/ (_/) \/ (  O )/ _/ )  // (_/\)(\___ \ )(  
 !   (__) \____\____/\__\(____(__/ \____(__(____/(__) 
 !
-!   Title: FluqzyList Whitelist
+!   Title: FluqzyList Base
 !   Syntax: abp
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
