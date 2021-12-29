@@ -1,0 +1,11 @@
+![Adblock Plus]
+!    ____ __   _  _  __  ____ _  _ __   __ ____ ____ 
+!   (  __(  ) / )( \/  \(__  ( \/ (  ) (  / ___(_  _)
+!    ) _)/ (_/) \/ (  O )/ _/ )  // (_/\)(\___ \ )(  
+!   (__) \____\____/\__\(____(__/ \____(__(____/(__) 
+!
+!   Title: FluqzyList Blacklist
+!   Syntax: abp
+!   Maintainer: Fluqzy
+!   Homepage: https://fluqzy.eu
+!   Last update: 29.10.2021 15:37
