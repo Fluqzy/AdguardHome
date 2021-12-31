@@ -133,7 +133,6 @@
 @@||stats.t-online.de^
 
 ![Twitch]
-@@||s.amazon-adsystem.com^
 @@||countess.twitch.tv^
 @@||spade.twitch.tv^
 @@||twitch.tv^
