@@ -139,4 +139,4 @@
 
 ![Amazon]
 ![Echo Dot]
-@@||avs-alexa-([1-9]|[1-9][1-9])-[a-z][a-z].amazon.com
+@@||avs-alexa-*-*.amazon.com
