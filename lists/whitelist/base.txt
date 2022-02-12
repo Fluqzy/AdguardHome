@@ -136,3 +136,7 @@
 @@||countess.twitch.tv^
 @@||spade.twitch.tv^
 @@||twitch.tv^
+
+![Amazon]
+![Echo Dot]
+@@||avs-alexa-([1-9]|[1-9][1-9])-[a-z][a-z].amazon.com
