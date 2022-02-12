@@ -137,6 +137,3 @@
 @@||spade.twitch.tv^
 @@||twitch.tv^
 
-![Amazon]
-![Echo Dot]
-@@||avs-alexa-*-*.amazon.com
