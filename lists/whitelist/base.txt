@@ -140,3 +140,6 @@
 ![Amazon (Echo)]
 @@||avs-alexa-4-na.amazon.com
 @@||avs-alexa-18-na.amazon.com
+
+![Phillips Hue]
+@@||diagnostics.meethue.com
