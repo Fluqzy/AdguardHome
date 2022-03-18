@@ -143,3 +143,6 @@
 
 ![Phillips Hue]
 @@||diagnostics.meethue.com
+
+![Pterodactyl]
+@@||pterodactyl.io
