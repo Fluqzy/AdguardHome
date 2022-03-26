@@ -8,7 +8,7 @@
 !   Syntax: abp
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
-!   Last Update: 29.12.2021 16:02
+!   Last Update: 26.03.2022 20:17
 
 ![Fluqzy Services]
 @@||fluqzy.eu^
@@ -138,11 +138,11 @@
 @@||twitch.tv^
 
 ![Amazon (Echo)]
-@@||avs-alexa-4-na.amazon.com
-@@||avs-alexa-18-na.amazon.com
+@@||avs-alexa-4-na.amazon.com^
+@@||avs-alexa-18-na.amazon.com^
 
 ![Phillips Hue]
-@@||diagnostics.meethue.com
+@@||diagnostics.meethue.com^
 
 ![Pterodactyl]
-@@||pterodactyl.io
+@@||pterodactyl.io^
