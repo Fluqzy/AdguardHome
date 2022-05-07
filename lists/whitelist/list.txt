@@ -9,16 +9,8 @@
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 !   Last Update: 26.03.2022 20:17
-
 ![Fluqzy Services]
-@@||fluqzy.eu^
-@@||cloud.fluqzy.eu^
-@@||vault.fluqzy.eu^
-@@||bridge.fluqzy.eu^
-@@||dns.fluqzy.eu^
-@@||link.fluqzy.eu^
-@@||box.fluqzy.eu^
-@@||status.fluqzy.eu^
+@@||analytics.fluqzy.eu
 
 ![Google Services]
 @@||clients4.google.com^
