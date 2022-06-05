@@ -9,9 +9,6 @@
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 !   Last Update: 26.03.2022 20:17
-![Fluqzy Services]
-@@||analytics.fluqzy.eu
-
 ![Google Services]
 @@||clients4.google.com^
 @@||clients2.google.com^
