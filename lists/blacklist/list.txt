@@ -12,12 +12,3 @@
 
 ![Volksbank Scam]
 ||vobadirekt.info^
-
-![Google ADS]
-||adservice.google.com^
-
-![Sentry]
-||browser.sentry-cdn.com^
-
-![Apple]
-||metrics.icloud.com^
