@@ -21,9 +21,3 @@
 
 ![Apple]
 ||metrics.icloud.com^
-
-![Spotify]
-||weblb-wg.dual-gslb.spotify.com^
-||weblb-wg.gslb.spotify.com^
-||adeventtracker.spotify.com^
-||spclient.wg.spotify.com^
