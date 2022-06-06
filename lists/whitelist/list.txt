@@ -10,9 +10,6 @@
 !   Homepage: https://fluqzy.eu
 !   Last Update: 06.06.2022 19:52
 
-![Twitch]
-@@||*.twitch.tv^
-
 ![Google Services]
 @@||clients4.google.com^
 @@||clients2.google.com^
