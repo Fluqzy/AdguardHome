@@ -8,7 +8,8 @@
 !   Syntax: abp
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
-!   Last Update: 26.03.2022 20:17
+!   Last Update: 20.01.2023 16:14
 
-![Volksbank Scam]
+![Scams]
 ||vobadirekt.info^
+||ivsa.org^
